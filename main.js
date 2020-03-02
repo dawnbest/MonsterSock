@@ -1,0 +1,1 @@
+gsap.to(".monster", {duration: 2, xPercent: -50});
